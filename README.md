@@ -23,7 +23,7 @@
     ├── model/
     │   └── Conversion.java             # Representa una conversión individual
     │   └── ConversionHistory.java      # Manejo y persistencia del historial de conversiones
-    │   └── ConversionData.java      # Representa la respuesta de la API de conversión
+    │   └── ConversionData.java         # Representa la respuesta de la API de conversión
     ├── service/
     │   └── CurrencyConverter.java      # Lógica principal de conversión de monedas
     └── App.java                        # Punto de entrada del programa (main)
